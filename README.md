@@ -61,7 +61,7 @@
 ## 🚀 Запуск
 
 1. Для начала обновите драйвер интернета до **Последней версии**
-2. Используйте **[DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer/releases)** для удаления старых и конфликтующих драйверов (В паке он есть, версия )
+2. Используйте **[DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer/releases)** для удаления старых и конфликтующих драйверов (В паке он есть, версия 1.0.26)
 3. ПКМ по `FixRegistration.bat` файлу, выбрать **Запуск от имени администратора** и дождаться завершение процесса 
 4. ПКМ по `BindingRSSCoresX.bat` файлу, выбрать **Запуск от имени администратора** и дождаться завершение процесса 
       - В паке 2 файла `BindingRSSCores1.bat` и `BindingRSSCores2.bat`. Если вы стримите то рекомендую использовать `BindingRSSCores2.bat`, если только играете то используйте `BindingRSSCores1.bat`
